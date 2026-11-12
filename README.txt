@@ -9,12 +9,15 @@ REQUIREMENTS
 4. Nothing else to install. Tkinter and SQLite come with Python.
 To check if Python is installed, open Command Prompt and type: python --version
 HOW TO RUN
-1. Put finalapp.py in a folder.
+1. Put CRICKETAPP.py in a folder.
 2. Open that folder, click on the address bar, type cmd and press Enter.
-3. Type: python finalapp.py and press Enter.
-4. The app window will open.
-A file called cricket_app.db is created automatically in the same folder to save the data. Two
-sample teams (Eagles and Falcons) are added so you can test right away.
+3. Open the folder in VS code and go to terminal> New
+terminal.
+4. Type: python CRICKETAPP.py and press Enter.
+5.The app window will open.(420×750) will open automatically.
+On the first run , cricket_app.db is created in the same
+folder with two sample teams (EAGLES and FALCONS) for
+testing.
 HOW TO USE
 1. Manage Teams & Roster: add a team, then add players with a role (Batsman, Bowler,
 All-Rounder or Wicketkeeper). Maximum 11 players per team.
